@@ -1,3 +1,5 @@
 # Project
 
 Let's come up with a name. Let's make it a good one. We can put anything we need to here.
+
+Thinking about making this a private repo just in case. Thoughts?
